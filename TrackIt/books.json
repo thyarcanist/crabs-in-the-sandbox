@@ -1,1 +1,128 @@
-[{"title":"Meditations","author":"Marcus Aurelius","genre":"Non-Fiction","page_count":88},{"title":"Xibirisms","author":"Datorien Anderson","genre":"Epic Poem","page_count":60},{"title":"The Divine Comedy","author":"Dante Alighieri","genre":"Epic Poem","page_count":848},{"title":"The Picture of Dorian Gray","author":"Oscar Wilde","genre":"Thriller","page_count":288},{"title":"Odyssey","author":"Homer","genre":"Epic Poem","page_count":384},{"title":"Iliad","author":"Homer","genre":"Epic Poem","page_count":560},{"title":"What We Owe to Each Other","author":"T. M. Scanlon","genre":"Philosophy","page_count":440}]
+[
+  {
+    "title": "The Joy of Wine",
+    "author": "Dionysus",
+    "genre": "Non-Fiction",
+    "page_count": 256,
+    "finished": false,
+    "pages_read": 0,
+    "progress_bar": "[          ]"
+  },
+  {
+    "title": "The Art of War: Olympian Tactics and Strategies",
+    "author": "Athena",
+    "genre": "Non-Fiction",
+    "page_count": 432,
+    "finished": false,
+    "pages_read": 0,
+    "progress_bar": "[          ]"
+  },
+  {
+    "title": "Myths and Legends: A Collection of Stories from Olympus",
+    "author": "Hermes",
+    "genre": "Mythology",
+    "page_count": 512,
+    "finished": false,
+    "pages_read": 0,
+    "progress_bar": "[          ]"
+  },
+  {
+    "title": "Odyssey",
+    "author": "Homer",
+    "genre": "Epic Poem",
+    "page_count": 384,
+    "finished": false,
+    "pages_read": 0,
+    "progress_bar": "[          ]"
+  },
+  {
+    "title": "Gods Behaving Badly",
+    "author": "Zeus",
+    "genre": "Comedy",
+    "page_count": 512,
+    "finished": false,
+    "pages_read": 0,
+    "progress_bar": "[          ]"
+  },
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "genre": "Non-Fiction",
+    "page_count": 88,
+    "finished": false,
+    "pages_read": 0,
+    "progress_bar": "[          ]"
+  },
+  {
+    "title": "Divine Mixology: Olympian Drinks and Libations",
+    "author": "Dionysus",
+    "genre": "Cookbook",
+    "page_count": 200,
+    "finished": false,
+    "pages_read": 0,
+    "progress_bar": "[          ]"
+  },
+  {
+    "title": "What We Owe to Each Other",
+    "author": "T. M. Scanlon",
+    "genre": "Philosophy",
+    "page_count": 440,
+    "finished": false,
+    "pages_read": 0,
+    "progress_bar": "[          ]"
+  },
+  {
+    "title": "Xibirisms",
+    "author": "Datorien Anderson",
+    "genre": "Epic Poem",
+    "page_count": 60,
+    "finished": false,
+    "pages_read": 50,
+    "progress_bar": "[========  ]"
+  },
+  {
+    "title": "The Power of Love",
+    "author": "Eros",
+    "genre": "Self-Help",
+    "page_count": 224,
+    "finished": false,
+    "pages_read": 0,
+    "progress_bar": "[          ]"
+  },
+  {
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "genre": "Epic Poem",
+    "page_count": 848,
+    "finished": false,
+    "pages_read": 0,
+    "progress_bar": "[          ]"
+  },
+  {
+    "title": "Pranks and Mischief",
+    "author": "Hermes",
+    "genre": "Humor",
+    "page_count": 224,
+    "finished": false,
+    "pages_read": 0,
+    "progress_bar": "[          ]"
+  },
+  {
+    "title": "Iliad",
+    "author": "Homer",
+    "genre": "Epic Poem",
+    "page_count": 560,
+    "finished": false,
+    "pages_read": 100,
+    "progress_bar": "[          ]"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Thriller",
+    "page_count": 288,
+    "finished": false,
+    "pages_read": 0,
+    "progress_bar": "[          ]"
+  }
+]
